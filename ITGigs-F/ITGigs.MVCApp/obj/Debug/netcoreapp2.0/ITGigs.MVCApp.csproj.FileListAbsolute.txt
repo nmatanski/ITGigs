@@ -1,0 +1,11 @@
+C:\Users\fmi\Desktop\ \Week 4\ITGigs\ITGigs.MVCApp\bin\Debug\netcoreapp2.0\ITGigs.MVCApp.deps.json
+C:\Users\fmi\Desktop\ \Week 4\ITGigs\ITGigs.MVCApp\bin\Debug\netcoreapp2.0\ITGigs.MVCApp.runtimeconfig.json
+C:\Users\fmi\Desktop\ \Week 4\ITGigs\ITGigs.MVCApp\bin\Debug\netcoreapp2.0\ITGigs.MVCApp.runtimeconfig.dev.json
+C:\Users\fmi\Desktop\ \Week 4\ITGigs\ITGigs.MVCApp\bin\Debug\netcoreapp2.0\ITGigs.MVCApp.dll
+C:\Users\fmi\Desktop\ \Week 4\ITGigs\ITGigs.MVCApp\bin\Debug\netcoreapp2.0\ITGigs.MVCApp.pdb
+C:\Users\fmi\Desktop\ \Week 4\ITGigs\ITGigs.MVCApp\obj\Debug\netcoreapp2.0\ITGigs.MVCApp.csprojResolveAssemblyReference.cache
+C:\Users\fmi\Desktop\ \Week 4\ITGigs\ITGigs.MVCApp\obj\Debug\netcoreapp2.0\ITGigs.MVCApp.csproj.CoreCompileInputs.cache
+C:\Users\fmi\Desktop\ \Week 4\ITGigs\ITGigs.MVCApp\obj\Debug\netcoreapp2.0\ITGigs.MVCApp.AssemblyInfoInputs.cache
+C:\Users\fmi\Desktop\ \Week 4\ITGigs\ITGigs.MVCApp\obj\Debug\netcoreapp2.0\ITGigs.MVCApp.AssemblyInfo.cs
+C:\Users\fmi\Desktop\ \Week 4\ITGigs\ITGigs.MVCApp\obj\Debug\netcoreapp2.0\ITGigs.MVCApp.dll
+C:\Users\fmi\Desktop\ \Week 4\ITGigs\ITGigs.MVCApp\obj\Debug\netcoreapp2.0\ITGigs.MVCApp.pdb
